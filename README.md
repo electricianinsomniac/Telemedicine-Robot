@@ -8,4 +8,4 @@ Telemedicine robot is a type of medical robot that is used to remotely treat pat
 # Background
 
 
-![Poster](https://user-images.githubusercontent.com/110273737/217453380-72eb0eb9-579d-4853-acf4-40590a359382.png)
+![Poster](Poster.png)
